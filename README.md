@@ -10,9 +10,8 @@ This repository contains intermediate and advanced Python projects.
 * **Overview:** A file-based transaction tracking system designed to maintain data integrity and secure balance management.
 * **Key Concepts:**
   * Object-Oriented Programming (OOP) & Encapsulation
-  * Data protection using `@property` getters and setters
-  * Low-level file stream handling with `seek` and `truncate`
-
+  * Data protection using @property getters and setters
+  * Low-level file stream handling with 'seek' and 'truncate'
 ---
 
 ##  Focus Areas
